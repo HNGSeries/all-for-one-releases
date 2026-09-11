@@ -12,7 +12,7 @@ No ads, no pop-ups, no sketchy download sites.
 <a href="https://github.com/HNGSeries/all-for-one-releases/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20for-macOS-1C1C1E?style=for-the-badge&labelColor=FFDE45" alt="Download for macOS"></a> <a href="https://github.com/HNGSeries/all-for-one-releases/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20for-Windows-1C1C1E?style=for-the-badge&labelColor=FFDE45" alt="Download for Windows"></a>
 
 <img src="https://img.shields.io/github/v/release/HNGSeries/all-for-one-releases?label=latest&color=FFDE45&labelColor=1C1C1E" alt="Latest release">
-<img src="https://img.shields.io/badge/one--time-%E0%B8%BF299-FFDE45?labelColor=1C1C1E" alt="One-time ฿299">
+<img src="https://img.shields.io/badge/launch%20price-%E0%B8%BF99%20until%20Sep%2030-FFDE45?labelColor=1C1C1E" alt="Launch price ฿99 until Sep 30">
 
 **Made in Thailand 🇹🇭** by an independent developer
 
@@ -52,7 +52,7 @@ Download the app, sign in with Google, and you're in. No credit card, no payment
 
 | | Free trial | Full version |
 |---|---|---|
-| **Price** | Free for 7 days | **฿299** once (about US$9) |
+| **Price** | Free for 7 days | **฿99** once until **Sep 30** (about US$3) — then ฿299 |
 | Downloads per day | 5 | Unlimited |
 | Maximum quality | 720p | Up to 4K |
 | Download queue | — | ✅ |
@@ -60,7 +60,9 @@ Download the app, sign in with Google, and you're in. No credit card, no payment
 | Computers | 1 | 2 (you can move them yourself) |
 | Updates | ✅ | ✅ free, forever |
 
-When the trial ends, upgrading takes about a minute — pay with PromptPay, your license key arrives by email, paste it into the app. No subscription, no recurring charge, no account to manage.
+**Launch price: ฿99 until September 30, 2026.** After that it goes back to the regular ฿299. Whatever you pay, it's once — no subscription, no recurring charge, no account to manage.
+
+Upgrading takes about a minute — pay with PromptPay, your license key arrives by email, paste it into the app.
 
 **[→ Buy the full version](https://all-for-one-backend.vercel.app)**
 
@@ -109,9 +111,9 @@ Yes. One license covers 2 computers, and you can sign out from inside the app to
 </details>
 
 <details>
-<summary><b>Is the ฿299 a subscription?</b></summary><br>
+<summary><b>Is it a subscription?</b></summary><br>
 
-No. You pay once and it stays yours, updates included. There is nothing to cancel.
+No. You pay once (฿99 during the launch promo, ฿299 after September 30) and it stays yours, updates included. There is nothing to cancel.
 </details>
 
 <details>
